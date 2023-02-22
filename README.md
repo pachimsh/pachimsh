@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @pachimsh
-- I’m here to help you to sell, license and distribute your softwares
+- I’m here to help you setup your servers and manage your sites
